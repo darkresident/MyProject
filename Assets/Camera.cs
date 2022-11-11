@@ -23,5 +23,3 @@ public class Camera : MonoBehaviour
         else return;
     }
 }
-
-}
